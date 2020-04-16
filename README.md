@@ -1,2 +1,5 @@
-# linee-guida-sviluppo
-Template e altre risorse per la pagine contenente le "Linee guida di sviluppo" per i tesisti del Collab
+# Linee guida di sviluppo
+Template e altre risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.uniba.it/tesi-di-laurea/come-sviluppare-un-progetto-di-tesi/)" rivolte ai tesisti del Collab
+
+## Template 
+* README.md
