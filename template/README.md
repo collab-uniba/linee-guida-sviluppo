@@ -77,7 +77,8 @@ DESCRIPTION
       CSVFILE                      Comma-separated output file
 
     Exit Status:
-    Returns success unless CSVFILE is missing, date is not well-formatted as YYYY-MM-DD, or an invalid option is given.
+    Returns success unless CSVFILE is missing, date is not well-formatted 
+    as YYYY-MM-DD, or an invalid option is given.
 ```
 
 ### Examples
