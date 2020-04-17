@@ -1,4 +1,4 @@
-# Recommended libraries
+# Python recommended libraries
 * Data visualisation: [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org)
 * Web scraping: [scrapy](https://scrapy.org/), [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/)
 * Machine learning: [scikit-learn](https://scikit-learn.org/)
