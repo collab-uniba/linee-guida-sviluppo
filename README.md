@@ -21,5 +21,5 @@ Template e altre risorse per la pagina contenente le "[Linee guida di sviluppo](
 
 
 ## Dataset versioning (*aka* Git for data)
-* [Dolt](https://github.com/liquidata-inc/dolt) / [DoltHub](https://www.dolthub.com/)
-* [dstack.ai](https://dstack.ai/)
+* [Dolt](https://github.com/liquidata-inc/dolt) / [DoltHub](https://www.dolthub.com/) (language agnostic)
+* [dstack.ai](https://dstack.ai/) (supported languages: R and Python)
