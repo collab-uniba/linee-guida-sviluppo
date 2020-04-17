@@ -18,3 +18,8 @@ Template e altre risorse per la pagina contenente le "[Linee guida di sviluppo](
 ## Guides
 
 * [Python](Python/guides.md)
+
+
+## Dataset versioning (*aka* Git for data)
+* [Dolt](https://github.com/liquidata-inc/dolt) / [DoltHub](https://www.dolthub.com/)
+* [dstack.ai](https://dstack.ai/)
