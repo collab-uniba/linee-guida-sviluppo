@@ -17,6 +17,4 @@ Template e altre risorse per la pagina contenente le "[Linee guida di sviluppo](
 
 ## Guides
 
-### Python
-
-* [Step-by-step Guide to Perform Text Data Cleaning in Python](https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/)
+* [Python](Python/guides.md)
