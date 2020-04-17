@@ -7,12 +7,8 @@ Template e altre risorse per la pagina contenente le "[Linee guida di sviluppo](
 ## Recommended libraries
 
 * [Python](Python/libraries.md)
+* [R](R/libraries.md)
 
-### R
-
-* Data transformation: [Dplyr](https://dplyr.tidyverse.org/)
-* Data visualization: [ggplot2](http://ggplot2.tidyverse.org/)
-* Machine learning: [caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
 
 ## Cheat sheets
 
