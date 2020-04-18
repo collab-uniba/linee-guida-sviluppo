@@ -3,6 +3,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 
 ## Templates
 * [README.md](template/README.md) -- Come strutturare un file README.md per un progetto Collab
+* [Bash script](template/bash-script.sh) -- Template per script bash con preambolo standard
 
 ## Recommended libraries
 
