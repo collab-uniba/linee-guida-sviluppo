@@ -26,7 +26,8 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * [dstack.ai](https://dstack.ai/) (supported languages: R and Python)
 * [dvc](https://dvc.org/) (language agnostic)
 
-## Software
+
+## Software
 
 ### Database
 * SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon)
