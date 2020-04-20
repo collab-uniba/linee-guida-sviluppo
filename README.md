@@ -33,3 +33,6 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon)
 
 ## Books
+
+### Deep Learning
+* I. Goodfellow, Yoshua Bengio, Aaron Courville (2017) [*Deep Learning*](https://www.amazon.it/Deep-Learning-Ian-Goodfellow/dp/0262035618/), MIT press.
