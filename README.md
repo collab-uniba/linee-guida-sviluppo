@@ -33,8 +33,8 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon), [TablePlus](https://tableplus.com)
 
 ### CSV editor
-* [Table Tool (macOS)](https://github.com/jakob/TableTool)
-* [CSVed (Win)](https://csved.sjfrancke.nl/index.html)
+* [Table Tool](https://github.com/jakob/TableTool)(macOS)
+* [CSVed](https://csved.sjfrancke.nl/index.html)(Win)
 
 ## Books
 
