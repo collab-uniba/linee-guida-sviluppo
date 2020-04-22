@@ -30,7 +30,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 ## Software
 
 ### Database
-* SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon)
+* SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon), [TablePlus](https://tableplus.com)
 
 ## Books
 
