@@ -3,3 +3,5 @@
 * Data visualization: [ggplot2](http://ggplot2.tidyverse.org/)
 * Machine learning: [caret](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
 * Unit testing: [testthat](https://testthat.r-lib.org)
+* Date/time manipulation: [lubridate](https://lubridate.tidyverse.org/)
+* JSON parsing: [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html)
