@@ -41,7 +41,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * T. Hastie, R. Tibshirani, J. Friedman (2013) [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction: Data Mining, Inference, and Prediction*](https://www.amazon.it/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/), Springer, ISBN 978-0387848570.
 
 ### Deep Learning
-* I. Goodfellow, Yoshua Bengio, Aaron Courville (2017) [*Deep Learning*](https://www.amazon.it/Deep-Learning-Ian-Goodfellow/dp/0262035618/), MIT press, ISBN 978-0262035613.
+* I. Goodfellow, Y. Bengio, A. Courville (2017) [*Deep Learning*](https://www.amazon.it/Deep-Learning-Ian-Goodfellow/dp/0262035618/), MIT press, ISBN 978-0262035613.
 * F. Chollet (2017) [*Deep Learning with Python*](https://www.amazon.it/Deep-Learning-Python-Francois-Chollet/dp/1617294438), Manning, ISBN 978-1617294433.
 
 ### Data Mining
