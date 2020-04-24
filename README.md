@@ -43,3 +43,6 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 ### Deep Learning
 * I. Goodfellow, Yoshua Bengio, Aaron Courville (2017) [*Deep Learning*](https://www.amazon.it/Deep-Learning-Ian-Goodfellow/dp/0262035618/), MIT press, ISBN 978-0262035613.
 * F. Chollet (2017) [*Deep Learning with Python*](https://www.amazon.it/Deep-Learning-Python-Francois-Chollet/dp/1617294438), Manning, ISBN 978-1617294433.
+
+### Data Mining
+* C.C. Aggarwal (2015) [*Data Mining: The Textbook*](https://www.amazon.it/Data-Mining-Textbook-Charu-Aggarwal/dp/3319141414), Springer, ISBN 978-3319141411.
