@@ -6,4 +6,4 @@
 * Machine learning: [scikit-learn](https://scikit-learn.org/), [PyCaret](https://pycaret.org/)
 * Deep learning: [Keras](https://keras.io/), [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
 * Clustering (K-means, PCA, KNN ): [FAISS](https://github.com/facebookresearch/faiss)
-* Topic modelling: [gensim](https://radimrehurek.com/gensim/), [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet)
+* Topic modeling: [gensim](https://radimrehurek.com/gensim/), [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet)
