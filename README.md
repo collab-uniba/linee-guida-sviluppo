@@ -2,8 +2,9 @@
 Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.uniba.it/tesi-di-laurea/come-sviluppare-un-progetto-di-tesi/)" rivolte ai tesisti del Collab
 
 ## Templates
-* [README.md](template/README.md) -- Come strutturare un file README.md per un progetto Collab
-* [Bash script](template/bash-script.sh) -- Template per script bash con preambolo standard
+* [README.md](template/README.md) - Come strutturare un file `README.md` per un progetto Collab
+* [Bash script](template/bash-script.sh) - Template per script `bash` con preambolo standard
+* [vi config](template/.vimrc) - File di configurazione per editor `vi`
 
 ## Recommended libraries
 
