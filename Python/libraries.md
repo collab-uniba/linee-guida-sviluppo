@@ -1,6 +1,6 @@
 # Python recommended libraries
 * Unit testing: [unittest](https://docs.python.org/3/library/unittest.html#module-unittest)
-* Data manipulation: [Dask](https://dask.org/), [pandas](https://pandas.pydata.org/)
+* Data manipulation: [Dask](https://dask.org/), [Modin](https://github.com/modin-project/modin) [pandas](https://pandas.pydata.org/)
 * Text cleaning: [NLTK](https://www.nltk.org/), [clean-text](https://github.com/jfilter/clean-text), [scrubadub](https://scrubadub.readthedocs.io/en/stable/)
 * Data visualisation: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org)
 * Web scraping: [Scrapy](https://scrapy.org/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://github.com/SeleniumHQ/selenium/)
