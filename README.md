@@ -16,6 +16,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 
 * [Python](Python/cheat-sheets.md)
 * [R](R/cheat-sheets.md)
+* [tmux](http://atkinsam.com/documents/tmux.pdf)
 
 ## Guides
 
