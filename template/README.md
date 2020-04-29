@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Download
 
-What things you need to download the software, typically through cloning.
+Define what you need to download the software, typically through cloning.
 
 ```sh
 git clone https://github.com/collab-uniba/PH_miner.git
@@ -18,7 +18,7 @@ git submodule update
 
 ### Configuration
 
-A step by step series of examples that tell you how to configure and get a development environement running.
+Define a step-by-step series of examples that tell you how to configure and get a development environement running.
 
 Number the steps as follows.
 
