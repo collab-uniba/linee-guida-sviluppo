@@ -9,3 +9,4 @@
 * Clustering (K-means, PCA, KNN ): [FAISS](https://github.com/facebookresearch/faiss)
 * Topic modeling: [gensim](https://radimrehurek.com/gensim/), [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet)
 * NLP: [Hugging Face Transformers](https://github.com/huggingface/transformers)
+* Mining Software Repositories: (Perceval)[https://github.com/chaoss/grimoirelab-perceval]
