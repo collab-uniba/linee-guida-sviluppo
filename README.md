@@ -11,6 +11,9 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * [Python](Python/libraries.md)
 * [R](R/libraries.md)
 
+## API Wrappers
+
+* [Python](https://github.com/discdiver/list-of-python-api-wrappers)
 
 ## Cheat sheets
 
