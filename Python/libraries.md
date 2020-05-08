@@ -6,6 +6,7 @@
 * Web scraping: [Scrapy](https://scrapy.org/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://github.com/SeleniumHQ/selenium/)
 * Machine learning: [scikit-learn](https://scikit-learn.org/), [PyCaret](https://pycaret.org/)
 * Deep learning (low level): [fastai](https://github.com/fastai/fastai) ([PyTorch](https://pytorch.org/)), [Keras](https://keras.io/) ([TensorFlow](https://www.tensorflow.org/))
+* AI/ML model serving: [BentoML](https://github.com/bentoml/BentoML)
 * Clustering (K-means, PCA, KNN): [FAISS](https://github.com/facebookresearch/faiss)
 * Topic modeling: [gensim](https://radimrehurek.com/gensim/), [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet)
 * NLP: [Hugging Face Transformers](https://github.com/huggingface/transformers)
