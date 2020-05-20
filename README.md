@@ -6,12 +6,14 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 * [Bash script](template/bash-script.sh) - Template per script `bash` con preambolo standard
 * [vi config](template/.vimrc) - File di configurazione per editor `vi`
 
-## Recommended libraries
+## TechRadar (list of accepted technologies)
+
+### Recommended libraries
 
 * [Python](Python/libraries.md)
 * [R](R/libraries.md)
 
-## API Wrappers
+### API Wrappers
 
 * [Python](https://github.com/discdiver/list-of-python-api-wrappers)
 
