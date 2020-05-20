@@ -17,6 +17,19 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 
 * [Python](https://github.com/discdiver/list-of-python-api-wrappers)
 
+### Dataset versioning (*aka* Git for data)
+* [Dolt](https://github.com/liquidata-inc/dolt) / [DoltHub](https://www.dolthub.com/) (language agnostic)
+* [dstack.ai](https://dstack.ai/) (supported languages: R and Python)
+* [dvc](https://dvc.org/) (language agnostic)
+
+### Software
+
+#### Database
+* SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon), [TablePlus](https://tableplus.com)
+
+#### CSV editor
+* [Table Tool](https://github.com/jakob/TableTool) (macOS), [CSVed](https://csved.sjfrancke.nl/index.html) (Win)
+
 ## Cheat sheets
 
 * [Python](Python/cheat-sheets.md)
@@ -27,21 +40,6 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 ## Guides
 
 * [Python](Python/guides.md)
-
-
-## Dataset versioning (*aka* Git for data)
-* [Dolt](https://github.com/liquidata-inc/dolt) / [DoltHub](https://www.dolthub.com/) (language agnostic)
-* [dstack.ai](https://dstack.ai/) (supported languages: R and Python)
-* [dvc](https://dvc.org/) (language agnostic)
-
-
-## Software
-
-### Database
-* SQL client: [DBeaver](https://dbeaver.io), [Falcon](https://github.com/plotly/falcon), [TablePlus](https://tableplus.com)
-
-### CSV editor
-* [Table Tool](https://github.com/jakob/TableTool) (macOS), [CSVed](https://csved.sjfrancke.nl/index.html) (Win)
 
 ## Books
 
