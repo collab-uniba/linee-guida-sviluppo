@@ -1,4 +1,5 @@
 # R recommended libraries
+* Virtual enviroments: [renv](https://rstudio.github.io/renv/articles/renv.html)
 * Data transformation: [Dplyr](https://dplyr.tidyverse.org/)
 * Data cleaning: [stopwords](https://github.com/quanteda/stopwords)
 * Data visualization: [ggplot2](http://ggplot2.tidyverse.org/)
