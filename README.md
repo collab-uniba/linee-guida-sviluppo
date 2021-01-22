@@ -1,5 +1,5 @@
-# Linee guida di sviluppo
-Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.uniba.it/tesi-di-laurea/come-sviluppare-un-progetto-di-tesi/)" rivolte ai tesisti del Collab
+# Development Guidelines
+Resources for the blog post "[Linee guida di sviluppo](http://collab.di.uniba.it/tesi-di-laurea/come-sviluppare-un-progetto-di-tesi/)" aimed at Collab students.
 
 ## Templates
 * [README.md](template/README.md) - Come strutturare un file `README.md` per un progetto Collab
