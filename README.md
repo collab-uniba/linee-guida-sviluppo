@@ -4,6 +4,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 ## Templates
 * [README.md](template/README.md) - Come strutturare un file `README.md` per un progetto Collab
 * [Bash script](template/bash-script.sh) - Template per script `bash` con preambolo standard
+* [Bash script (with params) (https://gist.github.com/m-radzikowski/53e0b39e9a59a1518990e76c2bff8038#file-script-template-sh) - Template per script `bash` con preambolo standard e parametri da riga di comando
 * [vi config](template/.vimrc) - File di configurazione per editor `vi`
 
 ## TechRadar (list of accepted technologies)
