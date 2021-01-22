@@ -104,7 +104,7 @@ Logs will be stored into text file `unit-tests-yyyy-mm-dd.log`.
 A Docker container is specified via file `Dockerfile`. To build an image, execute:
 
 ```sh
-docker build --no-cache -t collabuniba/hminer:vX Dockerfile
+docker build --no-cache -t collabuniba/phminer:vX Dockerfile
 ```
 
 Note that `vX` should match the version number or omit `:Vx` to override the latest version.
