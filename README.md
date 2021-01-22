@@ -26,7 +26,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 ### Software
 
 #### Database
-* SQL client: [Beekeper Studio](https://www.beekeeperstudio.io/), [Falcon](https://github.com/plotly/falcon),[DBeaver](https://dbeaver.io), [TablePlus](https://tableplus.com)
+* SQL client: [Beekeper Studio](https://www.beekeeperstudio.io/), [Falcon](https://github.com/plotly/falcon), [DBeaver](https://dbeaver.io), [TablePlus](https://tableplus.com)
 
 #### CSV editor
 * [Table Tool](https://github.com/jakob/TableTool) (macOS), [CSVed](https://csved.sjfrancke.nl/index.html) (Win)
