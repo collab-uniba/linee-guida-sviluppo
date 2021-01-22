@@ -39,7 +39,7 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 
 ## Guides
 
-* [General]()
+* [General](General/guides.md)
 * [Python](Python/guides.md)
 
 ## Books
