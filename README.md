@@ -54,3 +54,6 @@ Risorse per la pagina contenente le "[Linee guida di sviluppo](http://collab.di.
 
 ### Data Mining
 * C.C. Aggarwal (2015) [*Data Mining: The Textbook*](https://www.amazon.it/Data-Mining-Textbook-Charu-Aggarwal/dp/3319141414), Springer, ISBN 978-3319141411.
+
+### Python
+* [Legally Free Python Books List (2020)](https://www.pythonkitchen.com/legally-free-python-books-list/)
