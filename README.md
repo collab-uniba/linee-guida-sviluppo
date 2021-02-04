@@ -2,10 +2,10 @@
 Resources for the blog post "[Linee guida di sviluppo](http://collab.di.uniba.it/tesi-di-laurea/come-sviluppare-un-progetto-di-tesi/)" aimed at Collab students.
 
 ## Templates
-* [README.md](template/README.md) - Come strutturare un file `README.md` per un progetto Collab
-* [Bash script](template/bash-script.sh) - Template per script `bash` con preambolo standard
-* [Bash script (with params)](https://gist.github.com/m-radzikowski/53e0b39e9a59a1518990e76c2bff8038#file-script-template-sh) - Template per script `bash` con preambolo standard e parametri da riga di comando
-* [vi config](template/.vimrc) - File di configurazione per editor `vi`
+* [README.md](template/README.md) - How to structure a `README.md` file when creating a new project for the Collab org.
+* [Bash script](template/bash-script.sh) - Template for `bash` scripts (with standard preamble) 
+* [Bash script (with params)](https://gist.github.com/m-radzikowski/53e0b39e9a59a1518990e76c2bff8038#file-script-template-sh) - Template for `bash` scripts (with standard preamble and command-line argument parsing)
+* [vi config](template/.vimrc) - Custom configuration file for the `vi` editor 
 
 ## TechRadar (list of accepted technologies)
 
