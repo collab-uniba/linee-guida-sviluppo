@@ -1,5 +1,6 @@
 # Python recommended libraries
 * Virtual environments and dependency management: [Poetry](https://python-poetry.org/docs/)
+* Web framework for building APIs: [FastAPI](https://fastapi.tiangolo.com)
 * Unit testing: [unittest](https://docs.python.org/3/library/unittest.html#module-unittest)
 * Data manipulation: [Dask](https://dask.org/), [Modin](https://github.com/modin-project/modin), [pandas](https://pandas.pydata.org/)
 * Text cleaning: [NLTK](https://www.nltk.org/), [clean-text](https://github.com/jfilter/clean-text), [scrubadub](https://scrubadub.readthedocs.io/en/stable/)
