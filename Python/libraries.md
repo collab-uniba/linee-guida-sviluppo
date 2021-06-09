@@ -14,3 +14,4 @@
 * NLP: [Hugging Face Transformers](https://github.com/huggingface/transformers), [SpaCy](https://spacy.io)
 * Mining Software Repositories: [Perceval](https://github.com/chaoss/grimoirelab-perceval) ([Tutorial](https://chaoss.github.io/grimoirelab-tutorial/))
 * Time and date manipulation: [Arrow](https://github.com/arrow-py/arrow)
+* Path manipulation and filesystem navigation: [pathlib](https://docs.python.org/3/library/pathlib.html)
