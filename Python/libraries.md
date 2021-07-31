@@ -15,3 +15,4 @@
 * Mining Software Repositories: [Perceval](https://github.com/chaoss/grimoirelab-perceval) ([Tutorial](https://chaoss.github.io/grimoirelab-tutorial/))
 * Time and date manipulation: [Arrow](https://github.com/arrow-py/arrow)
 * Path manipulation and filesystem navigation: [pathlib](https://docs.python.org/3/library/pathlib.html)
+* Logging: [pretty-errors](https://github.com/onelivesleft/PrettyErrors)
