@@ -26,3 +26,4 @@
 * Logging: [pretty-errors](https://github.com/onelivesleft/PrettyErrors)
 * Output formatting: [rich](https://github.com/willmcgugan/rich)
 * Commmand Line Interfaces (CLI): [typer](https://typer.tiangolo.com/)
+* Progress bar: [tqdm](https://github.com/tqdm/tqdm)
