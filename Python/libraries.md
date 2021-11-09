@@ -25,5 +25,5 @@
 * Path manipulation and filesystem navigation: [pathlib](https://docs.python.org/3/library/pathlib.html)
 * Logging: [pretty-errors](https://github.com/onelivesleft/PrettyErrors)
 * Output formatting: [rich](https://github.com/willmcgugan/rich)
-* Commmand Line Interfaces (CLI): [typer](https://typer.tiangolo.com/)
+* Commmand Line Interfaces (CLI): [typer](https://typer.tiangolo.com/), [click](https://palletsprojects.com/p/click/)
 * Progress bar: [tqdm](https://github.com/tqdm/tqdm)
