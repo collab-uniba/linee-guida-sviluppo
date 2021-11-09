@@ -4,6 +4,7 @@
 * Data manipulation: [Dask](https://dask.org/), [Modin](https://github.com/modin-project/modin), [pandas](https://pandas.pydata.org/)
 * Text cleaning: [NLTK](https://www.nltk.org/), [clean-text](https://github.com/jfilter/clean-text), [scrubadub](https://scrubadub.readthedocs.io/en/stable/)
 * Data visualisation: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org)
+* Database ORM: [sqlalchemy](https://www.sqlalchemy.org/docs/latest/)
 
 
 ## MLOps
